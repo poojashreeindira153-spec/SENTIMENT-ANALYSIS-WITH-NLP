@@ -25,3 +25,12 @@ Once the model was trained, predictions were made on the test dataset. The perfo
 The results showed that the combination of TF-IDF and Logistic Regression provides a simple yet effective solution for sentiment analysis tasks. Although deep learning models such as LSTMs or transformers can achieve higher accuracy on large datasets, TF-IDF with Logistic Regression is lightweight, fast, and interpretable, making it suitable for small to medium-sized projects.
 
 In conclusion, this task provided practical experience in implementing NLP techniques, preprocessing textual data, applying feature extraction, training a machine learning model, and evaluating performance. Sentiment analysis is a valuable tool for businesses to understand customer opinions, improve products, and enhance user satisfaction.**
+
+output
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/d2d6e480-e228-4a3f-9aef-fd49477d8198" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/50772735-7aa8-4274-9b63-f0fbeda0b74d" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/7f22ac99-b927-4f3a-bfe5-eaeafb6fa9ab" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/14b37dd4-9022-4afd-b18f-ac4b26cf3d71" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/750720ef-6176-42c8-9953-824033eeb957" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/12285c3f-2452-4096-b67d-8b156d5a4d8b" />
